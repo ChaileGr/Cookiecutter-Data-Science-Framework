@@ -6,7 +6,12 @@
 
 evaluation of predictive poolicing models and running data processing pipeline
 
-Name: Chaile Grandy Course: INST414 Section: 0201
+Name: Chaile Grandy Course:
+
+INST414 Section: 0201
+
+Topic: 
+
 Research Questions:
 
 For this sprint, a model is being created to answer the following questions:
