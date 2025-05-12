@@ -6,11 +6,11 @@
 
 evaluation of predictive poolicing models and running data processing pipeline
 
-Name: Chaile Grandy Course:
+Name: Chaile Grandy 
 
-INST414 Section: 0201
+Course: INST414 Section: 0201
 
-Topic: 
+Topic: Racial Biases in Predictive Policing Models
 
 Research Questions:
 
@@ -19,8 +19,14 @@ For this sprint, a model is being created to answer the following questions:
 What is the estimated accuracy rate of racial bias in algorithmic models?
 How large is the gap between different racial arrests?
 Is there a correlation with race and economic-status along with the number of arrests.
-Method Overview:
 
+Key Findings:
+Accuracy Results: 80% overall accuracy results in predicing the outcome for race and annual income.
+Visual Trends: Data shows relatively high correlation with race,income, and conviction especially relating to Black and Hispanic populations.
+Model Performance: Linear Regression Model was the only model to really work consistently and show accurate results.
+
+
+Method Overview:
 Merge two-to-three datasets that include factors of race, socio-economic status, and arrests.
 Once the datasets have been merged or added, I will then clean up the dataset as there are over 400,000 rows combined and dates ranging from 2008-2015.
 Once the data is cleaned up, the statistical tests (XGBooster, RF Model, Linear Regression Model) will be ran to identify the correlation between race/economic bias along with arrest rates and calculate the estimated rate of racial bias in the dataset.
